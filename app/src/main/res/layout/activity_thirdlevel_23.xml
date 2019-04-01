@@ -373,7 +373,7 @@
         android:background="@drawable/custom_button"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/custom_edittext" />
+        app:srcCompat="@drawable/choiceshape" />
 
 
 </android.support.constraint.ConstraintLayout>
